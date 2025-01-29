@@ -1,0 +1,4 @@
+Name of the storage backend: zfs
+Would you like to create a new ZFS pool? (yes/no): yes
+Name of the new ZFS pool: lxd-pool
+Would you like to use an existing block device? (yes/no): no
